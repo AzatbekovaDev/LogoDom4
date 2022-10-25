@@ -258,3 +258,199 @@
     display: flex;
     flex-direction: column;
 }
+#hero-group {
+    width: 99%;
+    height: 700px;
+    background: #1F1E3D;
+}
+.hero-group {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.DOOm {
+    display: flex;
+    align-items: center;
+}
+.dom {
+    width: 35px;
+    height: 7px;
+    background: #FFD700;
+    transform: rotate(90deg);
+}
+
+.dome {
+    display: flex;
+    align-items: center;
+}
+
+.groupOne {
+    font-size: 15px;
+    padding: 25px;
+    color: #DDAF2A;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.group-one {
+    font-size: 15px;
+    padding: 20px;
+    color: #DDAF2A;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.logoT {
+    color: white;
+    display: flex;
+    font-size: 38px;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.Hot {
+    padding: 40px 0;
+    font-size: 36px;
+    color: #DDAF2A;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.slider {
+    font-size: 15px;
+    width: 80%;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.hero-bg {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.hero-group img {
+    margin-top: -70px;
+    /*font-size: 160px;*/
+}
+
+.swiper {
+    width: 90%;
+    height: 90%;
+}
+
+.slider-fon img {
+    height: 322px;
+}
+.month{
+    padding: 40px 0;
+}
+.month17{
+    font-size: 72px;
+}
+.monthLine{
+    width: 6px;
+    height: 40px;
+    background: #DDAF2A;
+    margin: 0 20px;
+}
+.month17month{
+    font-size: 18px;
+    padding: 0 0 0 50px;
+
+}
+.work{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+.month17text{
+    font-size: 14px;
+    color: black;
+}
+.rek{
+    padding: 40px 0;
+}
+.rec200{
+    font-size: 72px;
+}
+.recLine{
+    width: 6px;
+    height: 40px;
+    background: #DDAF2A;
+}
+.recommend{
+    font-size: 18px;
+}
+.work1{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+.recText{
+    font-size: 14px;
+    color: black;
+}
+.command100{
+    font-size: 72px;
+}
+.comLine{
+    width: 6px;
+    height: 40px;
+    background: #DDAF2A;
+    margin: 0 12px;
+}
+.comMonth{
+    font-size: 18px;
+}
+.work2{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+.comText{
+    font-size: 14px;
+    color: black;
+}
+.year{
+    padding: 40px 0;
+}
+.year5{
+    font-size: 72px;
+}
+.yearLine{
+    width: 6px;
+    height: 40px;
+    background: #DDAF2A;
+    margin: 0 0 0 20px;
+}
+.yearMonth{
+    font-size: 18px;
+    padding: 0 0 0 28px;
+}
+.work3{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+.yearText{
+    font-size: 14px;
+    color: black;
+}
+.success{
+    font-size: 36px;
+    color: black;
+    text-align: right;
+}
+.love{
+    font-size: 18px;
+    color: #8A7F41;
+    text-align: right;
+    padding: 20px 0 80px 0;
+}
+.secretImg{
+    width: 745px;
+    height: 497px;
+}
+.section4{
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 0;
+}
