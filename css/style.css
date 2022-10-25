@@ -1,0 +1,260 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+#header{
+    position: absolute;
+    width: 90%;
+    margin: 0 auto;
+}
+.LogoDom{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px 0 0 60px;
+}
+.logo {
+    color: white;
+    text-shadow: 1px 4px 4px rgba(0, 0, 0, 0.25);
+    font-size: 36px;
+}
+.LogoMenu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 60%;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 70%;
+}
+.menuA{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+.call{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 30%;
+}
+.user{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    background: rgba(0, 0, 0, 0.44);
+    border: 1px solid #DDAF2A;
+    padding: 12px;
+}
+.order{
+    width: 214px;
+    height: 46px;
+    font-size: 18px;
+    color: white;
+    background: rgba(0, 0, 0, 0.44);
+    border: 1px solid #DDAF2A;
+}
+#section1{
+    background: url("../img/image 1.png") no-repeat center/cover;
+    padding: 200px 0 200px 0;
+}
+.Tittle1{
+    margin: 0 0 0 150px;
+}
+.line{
+    width: 3px;
+    height: 102px;
+    color: #FFD700;
+    text-shadow: 2px 4px 15px 4px #DDAF2A;
+}
+.Tittle2{
+    font-size: 18px;
+    color: white;
+}
+.project{
+    font-size: 72px;
+    color: white;
+    margin: 50px 0 0 100px;
+}
+.modern{
+    font-size: 24px;
+    color: #FFD700;
+    margin: 0 0 0 400px;
+}
+.section2{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.price{
+    background: url("../img/image 2.png");
+}
+.priceText{
+    padding: 60px 100px 0 0;
+}
+.priceTittle{
+    font-size: 36px;
+    text-align: right;
+    color: #000000;
+}
+.priceTittle2{
+    font-size: 18px;
+    line-height: 22px;
+    text-align: right;
+    color: #DDAF2A;
+}
+.cost{
+    font-size: 14px;
+    line-height: 17px;
+    color: #DDAF2A;
+}
+.table1{
+    margin: 100px 0 0 508px;
+}
+.table{
+    background: #1F1E3D;
+    width: 605px;
+    height: 428px;
+}
+.name{
+    font-size: 14px;
+    color: #DDAF2A;
+    padding: 50px 0 20px 70px
+}
+.priceInput{
+    font-size: 18px;
+    border: none;
+    border-bottom: 1px solid #DDAF2A;
+    background: none;
+    margin: 0 0 50px 70px;
+    color: white;
+}
+.phone{
+    font-size: 14px;
+    color: #DDAF2A;
+    padding: 0 0 20px 70px;
+}
+.priceInput2{
+    font-size: 18px;
+    border: none;
+    border-bottom: 1px solid #DDAF2A;
+    background: none;
+    margin: 0 0 0 70px;
+    color: white;
+}
+.check{
+    padding: 50px 0 0 70px;
+}
+.priceBtn{
+    background: #DDAF2A;
+    border-radius: 10px;
+    color: white;
+    font-size: 18px;
+    border: none;
+    margin: 60px 0 0 400px;
+    padding: 6px;
+}
+.guarantee{
+    margin: 150px 0 0 0;
+}
+.Tittle17{
+    display: flex;
+    align-items: center;
+}
+.tittle{
+    font-size: 72px;
+    color: black;
+    margin: 0 0 0 1px;
+}
+.line17{
+    width: 6px;
+    height: 40px;
+    background: #DDAF2A;
+    margin: 0 10px 0 30px;
+}
+.deadline{
+    font-size: 18px;
+    color: black;
+}
+.text{
+    font-size: 14px;
+    color: black;
+}
+.Tittle5{
+    display: flex;
+    align-items: center;
+}
+.line5{
+    width: 6px;
+    height: 40px;
+    background: #DDAF2A;
+    margin: 0 10px 0 30px;
+}
+.Text100{
+    margin: 50px 0 50px 0;
+}
+#footer{
+    background: #1F1E3D;
+}
+.footerLine{
+    width: 1296px;
+    height: 1px;
+    background: #DDAF2A;
+}
+.main{
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+    padding: 0 50px 0 50px;
+}
+.link{
+    font-size: 30px;
+    color: white;
+}
+.whatsapp{
+    color: white;
+    font-size: 50px;
+}
+.facebook{
+    color: white;
+    font-size: 50px;
+    padding: 0 30px;
+}
+.instagram{
+    color: white;
+    font-size: 50px;
+}
+.card{
+    width: 200px;
+    height: 150px;
+}
+.address{
+    font-size: 24px;
+    color: white;
+}
+.number{
+    font-size: 24px;
+    color: white;
+}
+.finish{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.finish2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0 20px 0;
+}
+.numbers{
+    display: flex;
+    flex-direction: column;
+}
