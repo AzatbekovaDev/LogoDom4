@@ -258,6 +258,7 @@
     display: flex;
     flex-direction: column;
 }
+
 #hero-group {
     width: 99%;
     height: 700px;
@@ -453,4 +454,245 @@
     display: flex;
     justify-content: space-between;
     padding: 100px 0;
+
+#section5{
+    background: #1F1E3D;
+    height: 50%;
+}
+.section5{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+.every{
+    margin: 12px 0 0 0;
+}
+.everyTittle{
+    color: white;
+    font-size: 45px;
+
+}
+.everyTitll{
+    width: 295px;
+    height: 80px;
+    background: linear-gradient(100.23deg, #DDAF2A 21.24%, #FFFFFF 304.74%);
+    margin: 10px 0 0 0;
+}
+
+.everyTittle2{
+    color: black;
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+
+
+}
+
+.fastTittle{
+    background: white;
+    color: black;
+    padding: 10px 30px 10px 30px;
+    border-radius: 15px;
+    width: 225px;
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
+.proses{
+    background: white;
+    color: black;
+    padding: 50px 30px 50px 30px;
+    border-radius: 15px;
+    width: 224px;
+    height: 159px;
+
+}
+.section6{
+    display: flex;
+}
+.Quality{
+    background: white;
+    color: black;
+    padding: 10px 30px 10px 30px;
+    border-radius: 15px;
+    width: 206px;
+    height: 64px;
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
+.cheap{
+    background: white;
+    color: black;
+    padding: 10px 30px 10px 30px;
+    border-radius: 15px;
+    width: 250px;
+    height: 64px;
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
+
+.proses2 {
+    background: white;
+    color: black;
+    padding: 50px 30px 50px 30px;
+    border-radius: 15px;
+    width: 211px;
+}
+.proses3{
+    background: white;
+    color: black;
+    padding: 50px 0 50px 30px;
+    border-radius: 15px;
+    width: 280px;
+    height: 180px;
+}
+.QualityTittle{
+    background: white;
+    color: black;
+    padding: 10px -43px 10px 30px;
+    border-radius: 15px;
+    width: 237px;
+    height: 79px;
+}
+.cheaps{
+    margin: -113px -945px;
+    position: absolute;
+}
+.svg-cup{
+    margin: -33px 93px;
+}
+.svg-fast{
+    margin: -33px 93px;
+
+}
+.svg-lite{
+    margin: -33px 93px;
+}
+.fast{
+    margin:15px -97px -2px -64px;
+
+}
+.Qua{
+    margin: 67px 25px;
+}
+.manKitox{
+    margin: 25px 9px;
+    width: 311px;
+    height: 255px;
+    /* left: 51px; */
+    /* top: 4372px; */
+    border: 13px solid #DDAF2A;
+    border-radius: 41px;
+
+
+}
+.kitox p{
+    width: 350px;
+}
+.img-girl img{
+    width: 650px;
+
+}
+#section6{
+  height: 700px;
+  width: 100% ;
+}
+
+.kitox{
+
+    margin: 3px 9px;
+    width: 186.56px;
+    height: 228px;
+    background: #FFFFFF;
+    border-radius: 15px;
+}
+
+
+.stars{
+    border: 2px solid black;
+    border-radius: 8px;
+}
+
+.chelovek{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: -20px 0 0 0;
+}
+.rev{
+    padding: 100px 0 0 0;
+}
+
+.rev h1{
+    width: 195px;
+    height: 47px;
+    font-weight: 700;
+    font-size: 36px;
+
+    text-align: right;
+    color: #000000;
+
+}
+.rev h5{
+    width: 516px;
+    height: 49px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+
+    font-size: 18px;
+
+    color: #8A7F41;
+}
+
+.img-people{
+
+    margin: 29px -149px;
+}
+
+.coment{
+    width: 465px;
+    height: 329px;
+    background: #1F1E3D;
+    margin: -373px 0 -24px  884px;
+
+}
+.otzv{
+    color: #FFFFFF;
+    display:flex ;
+    justify-content: center;
+    font-size: 25px;
+}
+.comentInput{
+    margin:18px 35px 15px 38px;
+    width: 380px;
+    height: 110px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    background: #7A7D85;
+    border: 1px solid #DDAF2A;
+    border-radius: 10px;
+    color: black;
+}
+.svg-coment{
+    margin: 0 0 0 40px;
+}
+.btn-coment{
+    margin: 14px 0 0 92px;
+    width: 284px;
+    height: 38px;
+    background: #DDAF2A;
+    border-radius: 30px;
+    color: #FFFFFF;
+    font-size: 20px;
+    text-align: center;
+    border: 2px solid #7A7D85;
+}
+.btn-coment:hover{
+    background: #8A7F41 ;
+    color: lightslategrey;
+    width: 338px;
+    height: 25px;
+
 }
